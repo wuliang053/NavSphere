@@ -36,14 +36,6 @@
           "description": "截图美化，套上不同设备的壳，浏览器、iPhone、iPad、MacBook，Apple Watch",
           "icon": "/assets/images/logos/shots.webp",
           "enabled": true
-        },
-        {
-          "id": "1754229699374",
-          "title": "Lucide",
-          "href": "https://lucide.dev/",
-          "description": "Beautiful & consistent icon toolkit made by the community.",
-          "icon": "/assets/favicon_1754229702059.ico",
-          "enabled": true
         }
       ],
       "subCategories": [],
@@ -1143,7 +1135,16 @@
       "id": "8",
       "title": "素材资源",
       "icon": "linecons-thumbs-up",
-      "items": [],
+      "items": [
+        {
+          "id": "1754229699374",
+          "title": "Lucide",
+          "href": "https://lucide.dev/",
+          "description": "Beautiful & consistent icon toolkit made by the community.",
+          "icon": "/assets/favicon_1754229702059.ico",
+          "enabled": true
+        }
+      ],
       "subCategories": [
         {
           "id": "8_1",
